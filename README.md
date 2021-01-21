@@ -4,10 +4,36 @@
 ### About this Starter Kit
 ### Guiding Questions
 1. What is a Cardano Starter Kit?
-2. How can I make my own CSK?
+2. Why should I make one?
+3. How can I make my own CSK?
+
 ### Learning Targets
+1. I understand the purpose of Cardano Starter Kits.
+2. I understand the design principles behind Cardano Starter Kits
+3. I can explain why context and schema help drive adoption of new technology
+
 ### Outcomes
+At the end of this starter kit, you will:
+1. Be ready to create your own starter kit
+2. Have ideas for future starter kits and how you might contribute
+
 ### Intended Audience
+
+## Part 1: Why should you make a Cardano Starter Kit?
+Cardano Starter Kits exist because people learn best through experience. The roll-out of Cardano comes with so many possibilities that it's hard to even make sense of everything it can do.
+
+That is why we emphasize *context*. Knowledge will always be essential, and in order to *use* it, we must be able to incorporate it into the web of what we already know. That process is called sense-making; our webs of knowledge are called [schema](https://blog.mindresearch.org/blog/schema-in-education). 
+
+Gimbalabs seeks to help people build rich schema for what Cardano can do by providing context through project-based, experiential learning. You should make a Cardano Starter Kit if you have a way to help people along that journey. Here are some example of that might mean:
+- You can provide context that helps people make sense of technical documentation so that they can then dive deeper on their own. Perhaps you've read official docs and experienced some pain points, so now you're ready to help people navigate the same.
+- You've built a tool that can support others to build on Cardano and you want to show how it works, so that others can start using it.
+- Through your experience with Cardano you've developed insights that might help someone else get started on their own learning journey, and you can share these in a way that facilitates experiential, project- and problem-based learning
+    - You have an idea for how to expose end users to what Cardano can do
+    - You have an idea for how to show experienced devs what Cardano can do
+    - Some CSKs will focus more on devs, some on end-users, and others will address both audiences - you decide!
+
+In all cases, CSKs provide a starting point. CSKs should define next steps, calls to action, and further reading.
+
 
 ---
 ## What makes Cardano Starter Kit?
@@ -21,6 +47,7 @@
 1. Sample code
 2. PBL tasks
 3. Links to additional resources, further reading, suggested projects
+4. References to Dandelion endpoints
 
 ### Of course, you might have better ideas
 So treat these guidelines as flexible! If you see a better way to get people started in what you're trying to do, test your ideas.
