@@ -64,12 +64,12 @@ If you intend to create a Cardano Starter Kit, you probably already have some id
 ### Step 2: Draft Learning Targets and Outcomes
 "The process of learning shouldn’t be a mystery. Learning targets provide students with tangible goals that they can understand and work toward," writes the EL Education team ([continue reading here](https://eleducation.org/resources/chapter-1-learning-targets)). 
 
-Learning Targets are high level goals that might mean different things to different people. Outcomes are specific events or moments that should happen as a result of a learning experience. By providing both at the start of a lesson, we are trying to activate the schema of learners 
+Learning Targets are high level goals that might mean different things to different people. Outcomes are specific events or moments that should happen as a result of a learning experience. By providing both at the start of a lesson, we are trying to activate the schema of learners. 
 
 Think of Learning Targets like a horizon - you can move toward it, but there's always room to learn more.
-Think of Outcomes as tangible expectations - what, precisely will someone know and be able to do after looking at this CSK?  
+Think of Outcomes as tangible expectations - what, precisely, will someone know and be able to do after looking at this CSK?  
 
-Learning targets make room for everyone to do what they can / differentiate. // Outcomes are for everyone
+Learning targets make room for everyone to do what they can, and for educators to differentiate their approach depending on audience. Outcomes can be consistent for everyone, although they'll likely be met with different degrees of success.
 
 ### Step 3: Define your audiences
 The purpose of a CSK is to get people started on their own learning journey, and outcomes might be different for newcomers to Cardano vs people who want to learn to build with Cardano. We like to think about what each of these groups might get out of a CSK:
