@@ -22,9 +22,10 @@ At the end of this starter kit, you will:
 
 ---
 ## Part 1: What is the motivation behind Cardano Starter Kits?
+[Introduction video on YouTube](https://youtu.be/OHlR-hqlS8U)
+
 In order to solve the world's most challenging problems, we're going to need an unprecedented number of people collaborating in unprecedented ways, and we believe that Cardano provides tools and opportunities for people to solve problems in new ways.
 
-[Introduction video on YouTube](https://youtu.be/OHlR-hqlS8U)
 
 ## Part 2: Why should you make a Cardano Starter Kit?
 [Accompanying Video on YouTube](https://youtu.be/O4ErlxaoOv4)
