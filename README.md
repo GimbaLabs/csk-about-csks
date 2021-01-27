@@ -27,6 +27,7 @@ In order to solve the world's most challenging problems, we're going to need an 
 [Introduction video on YouTube](https://youtu.be/OHlR-hqlS8U)
 
 ## Part 2: Why should you make a Cardano Starter Kit?
+[Accompanying Video on YouTube](https://youtu.be/O4ErlxaoOv4)
 Cardano Starter Kits exist because people learn best through experience. The roll-out of Cardano comes with so many possibilities that it's hard to even make sense of everything it can do.
 
 That is why we emphasize *context*. Knowledge will always be essential, and in order to *use* it, we must be able to incorporate it into the web of what we already know. That process is called sense-making; our webs of knowledge are called [schema](https://blog.mindresearch.org/blog/schema-in-education). 
@@ -45,6 +46,7 @@ In all cases, starter kits are designed to provide a starting point. As such, th
 
 ---
 ## Part 3: What are the components of Cardano Starter Kit?
+[Accompanying Video on YouTube](https://youtu.be/M6J5WFttLls)
 You might have additional ideas for how to define what a CSK is. We are starting here, and we're eager to collaborate on all aspects of how to make CSKs as impactful as possible.
 
 ### Every CSK should include the following:
@@ -65,6 +67,8 @@ So treat these guidelines as flexible. If you see a better way to get people sta
 ---
 
 ## Part 4: Want to make a CSK? Here's How:
+Video & engaging docs coming soon, along with new ways to engage!
+
 ### Step 1: Draft Guiding Questions
 If you intend to create a Cardano Starter Kit, you probably already have some ideas about what you want to share with other people. Start by summarizing your intentions in one or two "guiding questions". If you already have of a lot of ideas, it's fine to jot down an outline at this point, just remember that it's a rough draft.
 
