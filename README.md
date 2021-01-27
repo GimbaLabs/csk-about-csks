@@ -5,8 +5,9 @@
 You should take a look at this starter kit if you'd like to learn about our intentions at Gimbalabs, or if you're thinking about contributing your own Cardano Starter Kit!
 
 ### Guiding Questions
-1. What is a Cardano Starter Kit?
+1. What is the motivation behind Cardano Starter Kits?
 2. Why should I make a Cardano Starter Kit?
+3. What are the components of a Cardano Starter Kit?
 3. How do I make one?
 
 ### Learning Targets
@@ -20,8 +21,12 @@ At the end of this starter kit, you will:
 2. Be ready to create your own starter kit.
 
 ---
+## Part 1: What is the motivation behind Cardano Starter Kits?
+In order to solve the world's most challenging problems, we're going to need an unprecedented number of people collaborating in unprecedented ways, and we believe that Cardano provides tools and opportunities for people to solve problems in new ways.
 
-## Part 1: Why should you make a Cardano Starter Kit?
+[Introduction video on YouTube](https://youtu.be/OHlR-hqlS8U)
+
+## Part 2: Why should you make a Cardano Starter Kit?
 Cardano Starter Kits exist because people learn best through experience. The roll-out of Cardano comes with so many possibilities that it's hard to even make sense of everything it can do.
 
 That is why we emphasize *context*. Knowledge will always be essential, and in order to *use* it, we must be able to incorporate it into the web of what we already know. That process is called sense-making; our webs of knowledge are called [schema](https://blog.mindresearch.org/blog/schema-in-education). 
@@ -39,7 +44,9 @@ Here are some specific examples:
 In all cases, starter kits are designed to provide a starting point. As such, they should define next steps, calls to action, and further reading.
 
 ---
-## Part 2: What makes Cardano Starter Kit?
+## Part 3: What are the components of Cardano Starter Kit?
+You might have additional ideas for how to define what a CSK is. We are starting here, and we're eager to collaborate on all aspects of how to make CSKs as impactful as possible.
+
 ### Every CSK should include the following:
 1. Guiding questions, Learning Targets and Outcomes as modeled above
 2. Video lessons with time-stamped links
@@ -57,7 +64,7 @@ So treat these guidelines as flexible. If you see a better way to get people sta
 
 ---
 
-## Call to Action: Want to make a CSK? Here's How:
+## Part 4: Want to make a CSK? Here's How:
 ### Step 1: Draft Guiding Questions
 If you intend to create a Cardano Starter Kit, you probably already have some ideas about what you want to share with other people. Start by summarizing your intentions in one or two "guiding questions". If you already have of a lot of ideas, it's fine to jot down an outline at this point, just remember that it's a rough draft.
 
