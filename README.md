@@ -73,12 +73,14 @@ So treat these guidelines as flexible. If you see a better way to get people sta
 Video & engaging docs coming soon, along with new ways to engage!
 
 ### Step 1: Draft Guiding Questions
-If you intend to create a Cardano Starter Kit, you probably already have some ideas about what you want to share with other people. Start by summarizing your intentions in one or two "guiding questions". If you already have of a lot of ideas, it's fine to jot down an outline at this point, just remember that it's a rough draft.
+If you intend to create a Cardano Starter Kit, you probably already have some ideas about what you want to share with other people. Start by summarizing your intentions in a hanful of "guiding questions". If you already have of a lot of ideas, it's fine to jot down an outline at this point, just remember that it's a rough draft.
 
 ### Step 2: Draft Learning Targets and Outcomes
 "The process of learning shouldn’t be a mystery. Learning targets provide students with tangible goals that they can understand and work toward," writes the EL Education team ([continue reading here](https://eleducation.org/resources/chapter-1-learning-targets)). 
 
-Learning Targets are high level goals that might mean different things to different people. Outcomes are specific events or moments that should happen as a result of a learning experience. By providing both at the start of a lesson, we are trying to activate the schema of learners. 
+Learning Targets are high level goals that might mean different things to different people. Ideally, they should exist independently of any single learning experience (see "What we have" vs. "What we need to have"). If you'd like to help define the roadmap for what Gimbalabs CSKs will cover, [let us know on this form](https://docs.google.com/forms/d/e/1FAIpQLSccZag6M6ZCgivQQKdqI7kj69jg1VJWvVMLnKU5o7PbvCzqtQ/viewform).
+
+Outcomes are specific events or moments that should happen as a result of a learning experience. By providing both at the start of a lesson, we are trying to activate the schema of learners. 
 
 Think of Learning Targets like a horizon - you can move toward it, but there's always room to learn more.
 Think of Outcomes as tangible expectations - what, precisely, will someone know and be able to do after looking at this CSK?  
@@ -114,6 +116,8 @@ The general idea behind CSK videos is to emphasize approachability and to be as 
 Once recorded, rendered, and uploaded to your favorite streaming platform, video is the hardest part of a multimedia lesson to change. So once you're happy with the video, plan on building around it. You can make changes to Outcomes + Learning Targets to ensure that they align with your videos. 
 
 Did any surprises emerge? Sometimes you won't know some of your key points until you get to teaching. It's ok to adjust your goals and outline to account for this.
+
+As we move toward having a truly dynamic network of learning targets and learning resources, you might choose to reach out to other community members to see how your CSK aligns with others toward delivering on high level goals.
 
 ### Step 7: Add written documentation 
 Use the outline you created in Step 4 to create a final draft of written documentation.
