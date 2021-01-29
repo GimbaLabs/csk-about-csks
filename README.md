@@ -15,6 +15,8 @@ You should take a look at this starter kit if you'd like to learn about our inte
 2. I understand the education design principles behind Cardano Starter Kits.
 3. I can explain why context and schema help drive adoption of new technology.
 
+[Want to help craft Learning Targets that will define our roadmap for future CSKs? Let us know here!](https://docs.google.com/forms/d/e/1FAIpQLSccZag6M6ZCgivQQKdqI7kj69jg1VJWvVMLnKU5o7PbvCzqtQ/viewform).
+
 ### Outcomes
 At the end of this starter kit, you will:
 1. Have ideas for future starter kits and how you might contribute.
