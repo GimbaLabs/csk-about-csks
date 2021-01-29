@@ -72,7 +72,7 @@ So treat these guidelines as flexible. If you see a better way to get people sta
 ---
 
 ## Part 4: Want to make a CSK? Here's How:
-Video & engaging docs coming soon, along with new ways to engage!
+[Accompanying Video on YouTube]()
 
 ### Step 1: Draft Guiding Questions
 If you intend to create a Cardano Starter Kit, you probably already have some ideas about what you want to share with other people. Start by summarizing your intentions in a hanful of "guiding questions". If you already have of a lot of ideas, it's fine to jot down an outline at this point, just remember that it's a rough draft.
