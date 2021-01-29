@@ -140,4 +140,5 @@ There are no rules here, because we are still experimenting with how to best sup
 - [Deep dive into learning targets from ASCD](http://www.ascd.org/ASCD/pdf/siteASCD/publications/books/learning-targets-sample-chapters.pdf)
 - [Universal Design for Learning](https://udlguidelines.cast.org/)
 - [Backward Design: The Basics](https://www.cultofpedagogy.com/backward-design-basics/)
+- [Mastery-Based Grading: It's all about relationships](https://www.jumpro.pe/single-post/2017/03/09/Mastery-Based-Grading-Its-All-About-Relationships)
 
